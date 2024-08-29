@@ -4,5 +4,5 @@ function revertirFrase(frase) {
     return frase.split(" ").reverse().join(" ");
 }
 
-const frase = "Hola a todos";
+const frase = "Instituto Tecnologico de Tepic";
 console.log("Frase invertida:", revertirFrase(frase));
